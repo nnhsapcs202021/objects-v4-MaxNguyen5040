@@ -11,4 +11,15 @@ public class TurtleDemo{
         crush.forward(50);
 
     }
+    public static void drawline(){
+        /*
+        Have attributes
+
+         */
+        World ocean = new World();
+        Turtle crush = new Turtle(ocean);
+        int width = 20;
+
+
+    }
 }
