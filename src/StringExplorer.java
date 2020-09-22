@@ -9,6 +9,7 @@ public class StringExplorer
 {
     public static void main(String[] args)
     {
-        
+        String river = new String("Mississippi");
+
     }
 }
